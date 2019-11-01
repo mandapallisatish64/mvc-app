@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/denisecase/node-express-mvc.svg?branch=master)](https://travis-ci.org/denisecase/node-express-mvc)
 ## Group
 ### Section 04
--Group members 
+- Group members 
 
 1. Satish Mandapalli
 
