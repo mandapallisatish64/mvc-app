@@ -35,7 +35,7 @@ todo List
 ## Links
 
 - [Demo](https://denisecase.github.io/node-express-mvc/)
-- [Source](https://github.com/denisecase/node-express-mvc)
+- [Source](https://github.com/mandapallisatish64/mvc-app)
 
 ## Dev Tools
 
