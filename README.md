@@ -7,7 +7,7 @@
 ### Section 04
 - Group members 
 
-1. Satish Mandapalli
+* Satish Mandapalli
 
  Course
 todo List
@@ -16,7 +16,7 @@ todo List
 -Create a Model
 
       
-2. Kavya Reddy Mylapurapu
+* Kavya Reddy Mylapurapu
 
   Student
 todo List
@@ -24,7 +24,7 @@ todo List
 -Create View
 -Create a Model
 
-3. Sravani Jaidi
+* Sravani Jaidi
  
   Section
 todo List
