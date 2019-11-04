@@ -32,6 +32,8 @@ todo List
 -Create View
 -Create a Model
 
+![TeamSlide](Capture.PNG)
+
 ## Links
 
 - [Demo](https://denisecase.github.io/node-express-mvc/)
