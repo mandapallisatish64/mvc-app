@@ -15,15 +15,7 @@ todo List
 -Create View
 -Create a Model
 
-      
-* Kavya Reddy Mylapurapu
-
-  Student
-todo List
--Create a controller
--Create View
--Create a Model
-
+    
 * Sravani Jaidi
  
   Section
@@ -32,10 +24,18 @@ todo List
 -Create View
 -Create a Model
 
+* Kavya Reddy Mylapurapu
+
+  Student
+todo List
+-Create a controller
+-Create View
+-Create a Model
 
 ## Team Slide
 
 ![TeamSlide](Capture.PNG)
+
 
 ## Links
 
