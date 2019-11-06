@@ -1,0 +1,82 @@
+[
+    {
+      "_id": 15,
+      "Given": "John",
+      "Family": "Doe",
+      "Email": "jdoe@nwmissouri.edu",
+      "GPA": 3.3,
+      "GitHub": "https://github.com/jdoe15/",
+      "Website": "https://jdoe15.com/",
+      "SectionID": 1256
+      
+    },
+    {
+        "_id": 16,
+        "Given": "Chris",
+        "Family": "Gayle",
+        "Email": "chrisgayle@nwmissouri.edu",
+        "GPA": 3.0,
+        "GitHub": "https://github.com/cgayle16/",
+        "Website": "https://cgayle16.com/",
+        "SectionID": 1257
+        
+      },
+      {
+        "_id": 17,
+        "Given": "virat",
+        "Family": "kohli",
+        "Email": "vkohli@nwmissouri.edu",
+        "GPA": 3.3,
+        "GitHub": "https://github.com/vkohli17/",
+        "Website": "https://virat17.com/",
+        "SectionID": 1258
+        
+      },
+      {
+        "_id": 18,
+        "Given": "Suresh",
+        "Family": "Raina",
+        "Email": "sraina@nwmissouri.edu",
+        "GPA": 2.8,
+        "GitHub": "https://github.com/sraina18/",
+        "Website": "https://sraina18.com/",
+        "SectionID": 1259
+        
+      },
+      {
+        "_id": 19,
+        "Given": "Dhoni",
+        "Family": "Ms",
+        "Email": "mdhoni@nwmissouri.edu",
+        "GPA": 3.8,
+        "GitHub": "https://github.com/mdhoni19/",
+        "Website": "https://mdhoni19.com/",
+        "SectionID": 1260
+        
+      },
+      {
+        "_id": 20,
+        "Given": "Ricky",
+        "Family": "Ponting",
+        "Email": "rponting@nwmissouri.edu",
+        "GPA": 3.0,
+        "GitHub": "https://github.com/rponting20/",
+        "Website": "https://rponting20.com/",
+        "SectionID": 1261
+        
+      },
+      {
+        "_id": 21,
+        "Given": "Rohit",
+        "Family": "sharma",
+        "Email": "rsharma@nwmissouri.edu",
+        "GPA": 3.3,
+        "GitHub": "https://github.com/rsharma21/",
+        "Website": "https://rsharma21.com/",
+        "SectionID": 1262
+        
+      }
+      
+
+
+  ]
