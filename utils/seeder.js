@@ -1,5 +1,5 @@
 const Datastore = require('nedb') // set up a temporary (in memory) database
-const developerData = require('../data/developers.json') // read in data file
+//const developerData = require('../data/developers.json') // read in data file
 const studentData = require('../data/student.json') 
 const courseData = require('../data/Course.json')
 const sectionData=require('../data/Section.json')
@@ -31,7 +31,7 @@ module.exports = (app) => {
   app.locals.students = db.students.find(studentData)
   app.locals.courses = db.courses.find(courseData)
   app.locals.Section = db.Section.find(sectionData)
-  console.log(`${app.locals.developers.query.length} developers seeded`)
+  //console.log(`${app.locals.developers.query.length} developers seeded`)
   console.log(`${app.locals.students.query.length} students seeded`)
   console.log(`${app.locals.courses.query.length} courses seeded`)
   console.log(`${app.locals.Section.query.length} sections seeded`)
