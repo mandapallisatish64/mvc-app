@@ -3,27 +3,19 @@
 > Node.js and the Express web framework make it easy to build well-designed web apps using MVC
 
 [![Build Status](https://travis-ci.org/denisecase/node-express-mvc.svg?branch=master)](https://travis-ci.org/denisecase/node-express-mvc)
-## Group
+## Group 04
 ### Section 04
-- Group members 
+## Group members 
 
 * Satish Mandapalli
 
- Course
+  Course
 todo List
 -Create a controller
 -Create View
 -Create a Model
 
-      
-* Kavya Reddy Mylapurapu
-
-  Student
-todo List
--Create a controller
--Create View
--Create a Model
-
+    
 * Sravani Jaidi
  
   Section
@@ -32,7 +24,18 @@ todo List
 -Create View
 -Create a Model
 
+* Kavya Reddy Mylapurapu
+
+  Student
+todo List
+-Create a controller
+-Create View
+-Create a Model
+
+## Team Slide
+
 ![TeamSlide](Capture.PNG)
+
 
 ## Links
 
