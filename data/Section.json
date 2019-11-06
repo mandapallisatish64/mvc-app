@@ -1,0 +1,62 @@
+[
+    {
+        "_id":1256,
+       "SectionNumber": "04",
+       "Days":"MWF",
+       "StartTime":"1300",
+       "RoomNumber":"CH 1200",
+       " CourseID":2677
+
+    },
+    {
+         "_id":1257,
+       "SectionNumber": "04",
+       "Days":"MWF",
+       "StartTime":"1300",
+       "RoomNumber":"CH 1200",
+       " CourseID":2678
+    },
+    {
+    "_id":1258,
+    "SectionNumber": "04",
+    "Days":"MWF",
+    "StartTime":"1300",
+    "RoomNumber":"CH 1200",
+    " CourseID":2679
+    },
+    {
+      "_id":1259,
+       "SectionNumber": "04",
+       "Days":"MWF",
+       "StartTime":"1300",
+       "RoomNumber":"CH 1200",
+       " CourseID":2680   
+    },
+   { 
+    "_id":1260,
+    "SectionNumber": "04",
+    "Days":"MWF",
+    "StartTime":"1300",
+    "RoomNumber":"CH 1200",
+    " CourseID":2681
+   },
+   {
+       
+    "_id":1261,
+    "SectionNumber": "04",
+    "Days":"MWF",
+    "StartTime":"1300",
+    "RoomNumber":"CH 1200",
+    " CourseID":2682
+   },
+   {
+   
+   "_id":1262,
+   "SectionNumber": "04",
+   "Days":"MWF",
+   "StartTime":"1300",
+   "RoomNumber":"CH 1200",
+   " CourseID":2683
+   }
+
+]
