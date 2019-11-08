@@ -46,6 +46,7 @@ const DeveloperSchema = new mongoose.Schema({
   {
     type: Number,
     required: true,  
+    default: 00,
   }
 })
 module.exports = mongoose.model('section', DeveloperSchema)
