@@ -90,7 +90,7 @@ api.post('/save', (req, res) => {
   item.SectionNumber = req.body.SectionNumber
   item.Days = req.body.Days
   item.StartTime = req.body.StartTime
-   
+   // for commit
   item.RoomNumber = req.body.RoomNumber
   item.CourseID = req.body.CourseID
  
