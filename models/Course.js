@@ -45,4 +45,4 @@ const DeveloperSchema = new mongoose.Schema({
     type:Boolean,  
   }
 })
-  module.exports = mongoose.model('Developer', DeveloperSchema)
+  module.exports = mongoose.model('section', DeveloperSchema)
