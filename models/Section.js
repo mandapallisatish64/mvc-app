@@ -48,4 +48,4 @@ const DeveloperSchema = new mongoose.Schema({
     required: true,  
   }
 })
-module.exports = mongoose.model('Developer', DeveloperSchema)
+module.exports = mongoose.model('section', DeveloperSchema)
