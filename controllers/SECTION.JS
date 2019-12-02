@@ -70,7 +70,7 @@ api.get('/details/:id', (req, res) => {
 // GET one
 api.get('/edit/:id', (req, res) => {
   const id = parseInt(req.params.id)
-  const data = req.app.locals.section.query
+  const data = req.app.locals.sections.query
   const item = find(data, { _id: id })
   if (!item) { return res.end(notfoundstring + id) }
   res.render('section/edit', {
