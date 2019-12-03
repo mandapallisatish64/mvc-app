@@ -1,7 +1,15 @@
+/**
+*  Developer controller
+*  Handles requests related to developer resources.
+*
+* @author Denise Case <dcase@nwmissouri.edu>
+*
+*/
 const express = require('express')
 const api = express.Router()
-const Model = require('../models/course.js')
-const find = require('lodash.find')
+const CourseModal = require('../models/course.js')
+const SectionModal = require('../models/section.js')
+const LOG = require('../utils/logger.js')
 const notfoundstring = 'Could not find course with id='
 
 // RESPOND WITH JSON DATA  --------------------------------------------

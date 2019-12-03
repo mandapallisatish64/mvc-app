@@ -7,8 +7,9 @@
 */
 const express = require('express')
 const api = express.Router()
-const Model = require('../models/section.js')
-const find = require('lodash.find')
+const CourseModal = require('../models/course.js')
+const SectionSchema = require('../models/section.js')
+const LOG = require('../utils/logger.js')
 const notfoundstring = 'Could not find section with id='
 
 // RESPOND WITH JSON DATA  --------------------------------------------
