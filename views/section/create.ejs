@@ -8,14 +8,13 @@
       <br>
       <% 
       maxID=0; 
-      for (var i=0; i < sections.length; i++) {
-        if(sections[i]._id > maxID) { 
-          maxID=sections[i]._id;  
+      for (let i=0; i < section.length; i++) {
+        if(section[i]._id > maxID) { 
+          maxID=section[i]._id;  
         }
       }
-      const section = {}
-      section._id = maxID+1
-     
+      const sections = {}
+      sections._id = maxID+1
       %>
       <div class="content">
         <div>

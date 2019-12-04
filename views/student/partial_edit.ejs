@@ -1,47 +1,49 @@
 <!-- main - a row holds columns -->
 <div class=row>
   <div class="col col-xs-12">
-
-    <div class="form-group">
-  
-  
-      <label for="Given">Given</label>
-      <input type="String" class="form-control" id="Given" name="Given" value="<%= student.Given %>">
+    
+      <div class="form-group">
+      <label for="given">Given</label>
+      <input type="text" class="form-control" id="given" name="given" value="<%= student.given %>">
     </div>
 
     <div class="form-group">
-      <label for="Family">Family </label>
-      <input type="String" class="form-control" id="Family" name="Family" value="<%= student.Family %>">
+      <label for="family">Family</label>
+      <input type="text" class="form-control" id="family" name="family" value="<%= student.family %>">
     </div>
+
     <div class="form-group">
-      <label for="Email">Email </label>
-      <input type="String" class="form-control" id="Email" name="Email" value="<%= student.Email %>">
+      <label for="email">Email</label>
+      <input type="text" class="form-control" id="email" name="email" value="<%= student.email %>">
     </div>
+
     <div class="form-group">
-      <label for="GPA">GPA </label>
-      <input type="number" class="form-control" id="GPA" name="GPA" value="<%= student.GPA %>">
-    </div>
-    <div class="form-group">
-      <label for="GitHub">GitHub </label>
-      <input type="String" class="form-control" id="GitHub" name="GitHub" value="<%= student.GitHub %>">
-    </div>
-    <div class="form-group">
-      <label for="Website">Website </label>
-      <input type="String" class="form-control" id="Website" name="Website" value="<%= student.Website %>">
+      <label for="gpa">GPA</label>
+      <input type="text" class="form-control" id="gpa" name="gpa" value="<%= student.gpa %>">
     </div>
     
+    <div class="form-group">
+      <label for="github">GitHub</label>
+      <input type="text" class="form-control" id="github" name="github" value="<%= student.github %>">
+    </div>
 
     <div class="form-group">
-      <label for="SectionID">SectionID </label>
-      <input type="number" class="form-control" id="sid" name="SectionID" value="<%= student.SectionID %>">
+      <label for="website">WEBSITE</label>
+      <input type="text" class="form-control" id="website" name="website" value="<%= student.website %>">
     </div>
+
+    <div class="form-group">
+      <label for="section_id">SECTION ID</label>
+      <input type="text" class="form-control" id="section_id" name="section_id" value="<%= student.sectionId %>">
+    </div>
+
 
   </div>
 </div>
 
 <!-- PUT CLIENT SIDE CODE HERE -->
 <script>
- 
+
   // prevent submission when hitting enter key - optional, but user-friendly 
   document.forms[0].onkeypress = function (e) {
     var key = e.charCode || e.keyCode || 0;
@@ -50,5 +52,5 @@
     }
   }
 
-// END CLIENT SIDE CODE  (close the script tag)
+  // END CLIENT SIDE CODE  (close the script tag)
 </script>

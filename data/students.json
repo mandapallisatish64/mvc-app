@@ -1,79 +1,79 @@
 [
     {
       "_id": 15,
-      "Given": "John",
-      "Family": "Doe",
-      "Email": "jdoe@nwmissouri.edu",
-      "GPA": 3.3,
-      "GitHub": "https://github.com/jdoe15/",
-      "Website": "https://jdoe15.com/",
-      "SectionID": 1256
+      "given": "John",
+      "family": "Doe",
+      "email": "jdoe@nwmissouri.edu",
+      "gpa": 3.3,
+      "gitHub": "https://github.com/jdoe15/",
+      "website": "https://jdoe15.com/",
+      "sectionId": 1256
       
     },
     {
         "_id": 16,
-        "Given": "Chris",
-        "Family": "Gayle",
-        "Email": "chrisgayle@nwmissouri.edu",
-        "GPA": 3.0,
-        "GitHub": "https://github.com/cgayle16/",
-        "Website": "https://cgayle16.com/",
-        "SectionID": 1257
+        "given": "Chris",
+        "family": "Gayle",
+        "email": "chrisgayle@nwmissouri.edu",
+        "gpa": 3.0,
+        "gitHub": "https://github.com/cgayle16/",
+        "website": "https://cgayle16.com/",
+        "sectionId": 1257
         
       },
       {
         "_id": 17,
-        "Given": "virat",
-        "Family": "kohli",
-        "Email": "vkohli@nwmissouri.edu",
-        "GPA": 3.3,
-        "GitHub": "https://github.com/vkohli17/",
-        "Website": "https://virat17.com/",
-        "SectionID": 1258
+        "given": "virat",
+        "family": "kohli",
+        "email": "vkohli@nwmissouri.edu",
+        "gpa": 3.3,
+        "gitHub": "https://github.com/vkohli17/",
+        "website": "https://virat17.com/",
+        "sectionId": 1258
         
       },
       {
         "_id": 18,
-        "Given": "Suresh",
-        "Family": "Raina",
-        "Email": "sraina@nwmissouri.edu",
-        "GPA": 2.8,
-        "GitHub": "https://github.com/sraina18/",
-        "Website": "https://sraina18.com/",
-        "SectionID": 1259
+        "given": "Suresh",
+        "family": "Raina",
+        "email": "sraina@nwmissouri.edu",
+        "gpa": 2.8,
+        "gitHub": "https://github.com/sraina18/",
+        "website": "https://sraina18.com/",
+        "sectionId": 1259
         
       },
       {
         "_id": 19,
-        "Given": "Dhoni",
-        "Family": "Ms",
-        "Email": "mdhoni@nwmissouri.edu",
-        "GPA": 3.8,
-        "GitHub": "https://github.com/mdhoni19/",
-        "Website": "https://mdhoni19.com/",
-        "SectionID": 1260
+        "given": "Dhoni",
+        "family": "Ms",
+        "email": "mdhoni@nwmissouri.edu",
+        "gpa": 3.8,
+        "gitHub": "https://github.com/mdhoni19/",
+        "website": "https://mdhoni19.com/",
+        "sectionId": 1260
         
       },
       {
         "_id": 20,
-        "Given": "Ricky",
-        "Family": "Ponting",
-        "Email": "rponting@nwmissouri.edu",
-        "GPA": 3.0,
-        "GitHub": "https://github.com/rponting20/",
-        "Website": "https://rponting20.com/",
-        "SectionID": 1261
+        "given": "Ricky",
+        "family": "Ponting",
+        "email": "rponting@nwmissouri.edu",
+        "gpa": 3.0,
+        "gitHub": "https://github.com/rponting20/",
+        "website": "https://rponting20.com/",
+        "sectionId": 1261
         
       },
       {
         "_id": 21,
-        "Given": "Rohit",
-        "Family": "sharma",
-        "Email": "rsharma@nwmissouri.edu",
-        "GPA": 3.3,
-        "GitHub": "https://github.com/rsharma21/",
-        "Website": "https://rsharma21.com/",
-        "SectionID": 1262
+        "given": "Rohit",
+        "family": "sharma",
+        "email": "rsharma@nwmissouri.edu",
+        "gpa": 3.3,
+        "gitHub": "https://github.com/rsharma21/",
+        "website": "https://rsharma21.com/",
+        "sectionId": 1262
         
       }
       

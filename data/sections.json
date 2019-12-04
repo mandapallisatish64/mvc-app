@@ -1,61 +1,92 @@
 [
-    {
-        "_id":1256,
-       "SectionNumber": "01",
-       "Days":"MWF",
-       "StartTime":"1300",
-       "RoomNumber":"CH 1200",
-       "CourseID":2677
-    },
-    {
-         "_id":1257,
-       "SectionNumber": "02",
-       "Days":"TR",
-       "StartTime":"1300",
-       "RoomNumber":"CH 1100",
-       "CourseID":2678
-    },
-    {
-    "_id":1258,
-    "SectionNumber": "03",
-    "Days":"TR",
-    "StartTime":"1300",
-    "RoomNumber":"CH 1300",
-    "CourseID":2679
-    },
-    {
-      "_id":1259,
-       "SectionNumber": "04",
-       "Days":"MWF",
-       "StartTime":"1200",
-       "RoomNumber":"CH 1100",
-       "CourseID":2680   
-    },
-   { 
-    "_id":1260,
-    "SectionNumber": "05",
-    "Days":"TR",
-    "StartTime":"1300",
-    "RoomNumber":"CH 1100",
-    "CourseID":2681
+   {
+     "_id": 1,
+     "sectionNumber": "01",
+     "days": "MWF",
+     "startTime": 1100,
+     "roomNumber": "CH 1200",
+     "instructorId": 111,
+     "courseId": 90
    },
    {
-       
-    "_id":1261,
-    "SectionNumber": "06",
-    "Days":"MWF",
-    "StartTime":"1200",
-    "RoomNumber":"CH 1200",
-    "CourseID":2682
-   },
-   {
-   
-   "_id":1262,
-   "SectionNumber": "07",
-   "Days":"TR",
-   "StartTime":"1300",
-   "RoomNumber":"CH 1200",
-   "CourseID":2683
-   }
-
-]
+       "_id": 2,
+       "sectionNumber": "02",
+       "days": "TR",
+       "startTime": 1200,
+       "roomNumber": "CH 1300",
+       "instructorId": 111,
+       "courseId": 90
+     },
+     {
+       "_id": 3,
+       "sectionNumber": "03",
+       "days": "MWF",
+       "startTime": 1200,
+       "roomNumber": "CH 1200",
+       "instructorId": 222,
+       "courseId": 92
+     },
+     {
+       "_id": 4,
+       "sectionNumber": "04",
+       "days": "MWF",
+       "startTime": 900,
+       "roomNumber": "VLK 118",
+       "instructorId": 333,
+       "courseId": 93
+     },
+     {
+       "_id": 5,
+       "sectionNumber": "05",
+       "days": "TR",
+       "startTime": "1400",
+       "roomNumber": "CH 3600",
+       "instructorId": 222,
+       "courseId": 92
+     },
+     {
+       "_id": 6,
+       "sectionNumber": "06",
+       "days": "TR",
+       "startTime": 800,
+       "roomNumber": "VLK 127",
+       "instructorId": 666,
+       "courseId": 95
+     },
+     {
+       "_id": 7,
+       "sectionNumber": "07",
+       "days": "TR",
+       "startTime": 1000,
+       "roomNumber": "VLK 128",
+       "instructorId": 777,
+       "courseId": 97
+     },
+     {
+       "_id": 8,
+       "sectionNumber": "08",
+       "days": "MWF",
+       "startTime": 1500,
+       "roomNumber": "CH 3500",
+       "instructorId": 111,
+       "courseId": 90
+     },
+     {
+       "_id": 9,
+       "sectionNumber": "09",
+       "days": "TR",
+       "startTime": 1100,
+       "roomNumber": "CH 1350",
+       "instructorId": 999,
+       "courseId": 99
+     },
+     {
+       "_id": 10,
+       "sectionNumber": "10",
+       "days": "MWF",
+       "startTime": 500,
+       "roomNumber": "CH 2500",
+       "instructorId": 999,
+       "courseId": 99
+     }
+ ]

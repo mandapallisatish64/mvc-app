@@ -1,52 +1,50 @@
 const mongoose = require('mongoose')
 
-const DeveloperSchema = new mongoose.Schema({
+const SectionSchema = new mongoose.Schema({
 
   _id: {
     type: Number,
     required: true
   },
-  SectionNumber:
-  {
-      type: String,
-      minlength:2,
-      maxlength:5,
-      required: true,
-      default:'04',
-      unique:true
-     },
-  Days:
-  {
-      type: String,
-      minlength: 6,
-      maxlength: 10,
-      required: true,
-      default:'MWF',
-      
-  },
-  StartTime:
-  {
-      type: Number,
-      minlength: 2,
-      maxlength: 10,
-      required: true,
-      default:1300,
-      unique: true
-  },
-  RoomNumber :
-  {
+  sectionNumber: {
     type: String,
-    minlength: 7,
-    maxlength: 10,
+    minlength: 2,
+    maxlength: 2,
     required: true,
-    default:"CH 1200",  
-    unique: true,
+    unique: true
   },
-  CourseID:
-  {
+  days: {
+    type: String,
+    minlength: 1,
+    maxlength: 5,
+    required: true,
+    default: 'MWF',
+    unique:true
+  },
+  startTime: {
     type: Number,
-    required: true,  
-    default: 00,
+    minlength: 3,
+    maxlength: 4,
+    required: true,
+    default: '1100',
+    unique:true
+  },
+  roomNumber: {
+    type: String,
+    minlength: 1,
+    maxlength: 100,
+    required: true,
+    default: 'CH 1200',
+    unique:true
+  },
+  instructorId: {
+    type: Number,
+    required:true
+  },
+  courseId: {
+    type: Number,
+    required: true
   }
+
 })
-module.exports = mongoose.model('section', DeveloperSchema)
+module.exports = mongoose.model('Section', SectionSchema)
