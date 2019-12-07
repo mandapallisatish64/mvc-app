@@ -11,7 +11,6 @@
 // Module dependencies
 const express = require('express')
 const expressLayouts = require('express-ejs-layouts')
-const favicon = require('serve-favicon')
 const path = require('path')
 const bodyParser = require('body-parser')
 const engines = require('consolidate')
@@ -92,9 +91,8 @@ connection.once('open', function () {
   LOG.info('MongoDB event open')
   LOG.info(`MongoDB connected ${dbURI}\n`)
 
- 
+  
   seed('courses')
-
   seed('sections')
   seed('students')
 

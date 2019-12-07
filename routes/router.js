@@ -28,7 +28,6 @@ router.get('/index', (req, res, next) => {
 
 // Defer path requests to a particular controller
 
-
 // Defer path requests to a course controller
 router.use('/course', require('../controllers/course.js'))
 
@@ -38,7 +37,6 @@ router.get('/course', (req, res, next) => {
   res.render('index')
 })
 
-// Defer path requests to a instructor controller
 
 
 // Defer path requests to a section controller
